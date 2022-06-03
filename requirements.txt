@@ -1,0 +1,6 @@
+cryptography~=37.0.2
+sounddevice~=0.4.4
+pynput~=1.7.6
+scipy~=1.7.3
+requests~=2.27.1
+Pillow~=9.1.1
