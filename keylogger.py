@@ -31,9 +31,9 @@ file_path = "D:\\Cybersecurity Projects\\Keylogger"
 extension = "\\"
 
 # email address to which log file will be sent
-email_address = "demouserdemouser15@gmail.com"
-password = "cr4xcgsBSsaHEY8"
-toaddr = "demouserdemouser15@gmail.com"
+email_address = "EMAIL ADDRESS"
+password = "PASSWORD"
+toaddr = "EMAIL ADDRESS"
 
 # file for sending system information
 sys_info = "sys_info.txt"
